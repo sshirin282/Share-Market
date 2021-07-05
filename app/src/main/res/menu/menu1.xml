@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:id="@+id/home"/>
+    <item
+        android:title="Intraday"
+        android:id="@+id/intra1"/>
+    <item
+        android:title="Short Term"
+        android:id="@+id/shortterm1"/>
+    <item
+        android:title="Long Term"
+        android:id="@+id/longterm1"/>
+    <item
+        android:title="IPO Details"
+        android:id="@+id/IPO1"/>
+    <item
+        android:title="Contest"
+        android:id="@+id/context1"/>
+    <item
+        android:title="Share"
+        android:id="@+id/share"/>
+    <item
+        android:title="Prizes &amp; Rules"
+        android:id="@+id/prize"/>
+    <item
+        android:title="Disclaimer"
+        android:id="@+id/dis"/>
+</menu>
